@@ -6,6 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
 	
 	public void someMethod() {
-		System.out.println("Merge resolved");
+		System.out.println("changed text");
 	}
 }
